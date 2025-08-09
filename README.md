@@ -3,31 +3,5 @@
 
 #Ejercicio4
 
-@startuml
-interface IFileSystemComponent {
-    +Name: string
-    +Size: long
-    +Print(indent: int): void
-    +Rename(newName: string): void
-    +Delete(): void
-}
+![Diagrama de PlantUML](https://www.planttext.com?text=pL9B2i903Dtt55cEU8DPjLG4DoBs1CDCrC1yoaoig7XtWwMWui9biqfUybuU8NLXa_aSV4MHCH-CHTYioMDtBOoXJQ5F4IF3lGA9vTO4r50uKpoEI4StGNoQwfsqM55qmj8W-KB3aCYDtJr6KL0HB-zA7oChzCYe9knHLTQRKg39zaH30Wgzno3gPQvEMvDxP3DVfo-iSKxPoOl-wV1hJKW3_akHOzGOdNpM4m00)
 
-class Archivo implements IFileSystemComponent {
-    +Name: string
-    +Size: long
-    +Print(indent: int): void
-    +Rename(newName: string): void
-    +Delete(): void
-}
-
-class Carpeta implements IFileSystemComponent {
-    +Name: string
-    +Size: long
-    +Print(indent: int): void
-    +Rename(newName: string): void
-    +Delete(): void
-    +Add(component: IFileSystemComponent): void
-    +Remove(component: IFileSystemComponent): void
-}
-
-@enduml
