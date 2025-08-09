@@ -22,6 +22,9 @@ namespace DecoratorNotification.Utils
                     case "whatsapp":
                         notificador = new NotificadorWhatsApp(notificador);
                         break;
+                    case "slack":
+                    notificador = new NotificadorSlack(notificador);
+                        break;
                         // Se pueden agregar más canales sin modificar lo existente
                 }
             }

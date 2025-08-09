@@ -12,11 +12,12 @@ internal class Program
         {
             Nombre = "Esneider",
             Email = "esneider@ejemplo.com",
+            NickName = "3sneider",
             Telefono = "3001234567",
             WhatsApp = "3001234567"
         };
 
-        var canales = new List<string> { "whatsapp", "sms" };
+        var canales = new List<string> { "whatsapp", "sms", "slack" };
 
         #endregion
 
