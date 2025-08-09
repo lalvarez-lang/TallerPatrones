@@ -2,8 +2,8 @@ using DecoratorNotification.Entities;
 using DecoratorNotification.Interfaces;
 
 namespace DecoratorNotification.Utils
-{
-    public class NotificadorBase : INotificador
+{    
+    public abstract class NotificadorBase : INotificador
     {
         protected INotificador _notificador;
         public NotificadorBase(INotificador notificador)
