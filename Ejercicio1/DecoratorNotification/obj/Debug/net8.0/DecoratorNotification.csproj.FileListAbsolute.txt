@@ -1,0 +1,14 @@
+D:\diplomado\DecoratorNotification\obj\Debug\net8.0\DecoratorNotification.GeneratedMSBuildEditorConfig.editorconfig
+D:\diplomado\DecoratorNotification\obj\Debug\net8.0\DecoratorNotification.AssemblyInfoInputs.cache
+D:\diplomado\DecoratorNotification\obj\Debug\net8.0\DecoratorNotification.AssemblyInfo.cs
+D:\diplomado\DecoratorNotification\obj\Debug\net8.0\DecoratorNotification.csproj.CoreCompileInputs.cache
+D:\diplomado\DecoratorNotification\bin\Debug\net8.0\DecoratorNotification.exe
+D:\diplomado\DecoratorNotification\bin\Debug\net8.0\DecoratorNotification.deps.json
+D:\diplomado\DecoratorNotification\bin\Debug\net8.0\DecoratorNotification.runtimeconfig.json
+D:\diplomado\DecoratorNotification\bin\Debug\net8.0\DecoratorNotification.dll
+D:\diplomado\DecoratorNotification\bin\Debug\net8.0\DecoratorNotification.pdb
+D:\diplomado\DecoratorNotification\obj\Debug\net8.0\DecoratorNotification.dll
+D:\diplomado\DecoratorNotification\obj\Debug\net8.0\refint\DecoratorNotification.dll
+D:\diplomado\DecoratorNotification\obj\Debug\net8.0\DecoratorNotification.pdb
+D:\diplomado\DecoratorNotification\obj\Debug\net8.0\DecoratorNotification.genruntimeconfig.cache
+D:\diplomado\DecoratorNotification\obj\Debug\net8.0\ref\DecoratorNotification.dll
