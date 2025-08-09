@@ -1,7 +1,12 @@
 # TallerPatrones
 
+## Ejercicio 4
 
-#Ejercicio4
+A continuación se presenta el diagrama correspondiente al Ejercicio 4:
 
-![Diagrama de PlantUML](https://www.planttext.com?text=pL9B2i903Dtt55cEU8DPjLG4DoBs1CDCrC1yoaoig7XtWwMWui9biqfUybuU8NLXa_aSV4MHCH-CHTYioMDtBOoXJQ5F4IF3lGA9vTO4r50uKpoEI4StGNoQwfsqM55qmj8W-KB3aCYDtJr6KL0HB-zA7oChzCYe9knHLTQRKg39zaH30Wgzno3gPQvEMvDxP3DVfo-iSKxPoOl-wV1hJKW3_akHOzGOdNpM4m00)
+![Diagrama de Ejercicio 4](images/Ejercicio4.png)
+
+### Descripción del Diagrama
+
+Este diagrama ilustra la estructura del sistema de archivos que se implementa en el ejercicio aplicando el patron Composite.
 
