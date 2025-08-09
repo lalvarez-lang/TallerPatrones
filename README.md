@@ -1,5 +1,20 @@
 # TallerPatrones
 
+## Ejercicio 
+
+A continuación se presenta el diagrama correspondiente al Ejercicio 1:
+
+![Diagrama de Ejercicio 1](images/Ejercicio1.png)
+
+### Descripción del Diagrama
+
+Para el ejercicio 1 tomamos la decicion de implementar el patron decorator, este patron cumple con los requerimientos solicitados ya que:
+
+- Mantiene una composicion dinamica
+- Solo crea una clase decorada
+- Se evita la herencia convinada
+- Agrega nuevas implementaciones sin tocar las existentes (OCP)
+
 ## Ejercicio 4
 
 A continuación se presenta el diagrama correspondiente al Ejercicio 4:
