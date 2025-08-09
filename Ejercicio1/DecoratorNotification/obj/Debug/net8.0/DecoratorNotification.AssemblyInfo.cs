@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DecoratorNotification")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8d1283b0e885f99d17d90d957aa458258cacb46e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0fd12ed94e9d6f7e20618ce9d23b52abfe64a108")]
 [assembly: System.Reflection.AssemblyProductAttribute("DecoratorNotification")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DecoratorNotification")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
