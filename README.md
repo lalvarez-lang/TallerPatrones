@@ -12,7 +12,7 @@ Para el ejercicio 1 tomamos la decicion de implementar el patron decorator, este
 
 - Mantiene una composicion dinamica
 - Solo crea una clase decorada
-- Se evita la herencia convinada
+- Se evita la herencia combinada
 - Agrega nuevas implementaciones sin tocar las existentes (OCP)
 
 ## Ejercicio 4
