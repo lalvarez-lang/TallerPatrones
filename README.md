@@ -19,7 +19,7 @@ Para el ejercicio 1 tomamos la decisión de implementar el patrón **Decorator**
 
 A continuación se presenta el diagrama correspondiente al Ejercicio 2:
 
-![Diagrama de Ejercicio 2](Diagrama/DiagramaReportes.png)
+![Diagrama de Ejercicio 2](Diagramas/Ejercicio2.png)
 
 ### Descripción del Diagrama
 
