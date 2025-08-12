@@ -1,27 +1,37 @@
 # TallerPatrones
 
-## Ejercicio 
+## Ejercicio 1
 
 A continuación se presenta el diagrama correspondiente al Ejercicio 1:
 
-![Diagrama de Ejercicio 1](images/Ejercicio1.png)
+![Diagrama de Ejercicio 1](Diagramas/Ejercicio1.png)
 
 ### Descripción del Diagrama
 
-Para el ejercicio 1 tomamos la decicion de implementar el patron decorator, este patron cumple con los requerimientos solicitados ya que:
+Para el ejercicio 1 tomamos la decisión de implementar el patrón **Decorator**, este patrón cumple con los requerimientos solicitados ya que:
 
-- Mantiene una composicion dinamica
+- Mantiene una composición dinámica
 - Solo crea una clase decorada
 - Se evita la herencia combinada
 - Agrega nuevas implementaciones sin tocar las existentes (OCP)
+
+## Ejercicio 3
+
+A continuación se presenta el diagrama correspondiente al Ejercicio 3:
+
+![Diagrama de Ejercicio 3](Diagramas/Ejercicio3.v2.png)
+
+### Descripción del Diagrama
+
+Para el caso presentado en el ejercicio, de gestión de tareas, se decidió aplicar el patrón **Command**, el cual permite el cumplimiento de los requisitos planteados.
 
 ## Ejercicio 4
 
 A continuación se presenta el diagrama correspondiente al Ejercicio 4:
 
-![Diagrama de Ejercicio 4](images/Ejercicio4.png)
+![Diagrama de Ejercicio 4](Diagramas/Ejercicio4.png)
 
 ### Descripción del Diagrama
 
-Este diagrama ilustra la estructura del sistema de archivos que se implementa en el ejercicio aplicando el patron Composite.
+Este diagrama ilustra la estructura del sistema de archivos que se implementa en el ejercicio aplicando el patrón **Composite**.
 
