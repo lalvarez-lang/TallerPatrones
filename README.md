@@ -15,6 +15,22 @@ Para el ejercicio 1 tomamos la decisión de implementar el patrón **Decorator**
 - Se evita la herencia combinada
 - Agrega nuevas implementaciones sin tocar las existentes (OCP)
 
+## Ejercicio 2
+
+A continuación se presenta el diagrama correspondiente al Ejercicio 2:
+
+![Diagrama de Ejercicio 2](Diagrama/DiagramaReportes.png)
+
+### Descripción del Diagrama
+
+Para el ejercicio 2 tomamos la decisión de implementar el patrón **Builder**, ya que el ejercicio cumplia con los sintomas clasicos que este patron resuelve,
+realizando asi:
+
+- separacion del proceso de construccion y el objeto final.
+- creacion fluida.
+- secciones opcionales sin sobrecarga de constructores.
+- validacion centralizada y facil extencion.
+
 ## Ejercicio 3
 
 A continuación se presenta el diagrama correspondiente al Ejercicio 3:
