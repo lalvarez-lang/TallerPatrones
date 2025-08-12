@@ -1,0 +1,14 @@
+# Carpetas de compilación
+bin/
+obj/
+
+# Configuración de usuario
+*.user
+*.suo
+
+# Archivos temporales
+*.tmp
+*.log
+
+# Configuración de VSCode
+.vscode/
