@@ -1,9 +1,8 @@
-﻿
-using FileSystemCompositeExample.Entities;
+﻿using CompositeArchivos.Entities;
 
-public class Program
+internal class Program
 {
-    public static void Main(string[] args)
+     public static void Main(string[] args)
     {
         // Crear archivos
         var Archivo1 = new Archivo("File1.txt", 100);
@@ -51,4 +50,3 @@ public class Program
         rootCarpeta.Print(0);
     }
 }
-

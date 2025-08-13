@@ -1,8 +1,8 @@
-using FileSystemCompositeExample.Interfaces;
+using CompositeArchivos.Interfaces;
 
-namespace FileSystemCompositeExample.Entities
+namespace CompositeArchivos.Entities
 {
-    public class Archivo(string name, long size) : IFileSystemComponent
+     public class Archivo(string name, long size) : IFileSystemComponent
     {
         public string Name { get; private set; } = name;
         public long Size { get; private set; } = size;

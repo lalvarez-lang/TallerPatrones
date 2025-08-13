@@ -1,5 +1,4 @@
-// Interfaz para componentes del sistema de archivos
-namespace FileSystemCompositeExample.Interfaces
+namespace CompositeArchivos.Interfaces
 {
     public interface IFileSystemComponent
     {

@@ -1,8 +1,7 @@
-using FileSystemCompositeExample.Interfaces;
+using CompositeArchivos.Interfaces;
 
-namespace FileSystemCompositeExample.Entities
+namespace CompositeArchivos.Entities
 {
-
     public class Carpeta(string name) : IFileSystemComponent
     {
         public string Name { get; private set; } = name;
